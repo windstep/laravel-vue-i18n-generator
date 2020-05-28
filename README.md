@@ -1,6 +1,6 @@
 ## About
 
-**NO LONGER MAINTAINED**
+Fork of https://github.com/martinlindhe/laravel-vue-i18n-generator
 
 
 [![Build Status](https://travis-ci.org/martinlindhe/laravel-vue-i18n-generator.png?branch=master)](https://travis-ci.org/martinlindhe/laravel-vue-i18n-generator)
